@@ -52,5 +52,15 @@
       }
    },
    "release_status" : "unstable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/ghbr/Acme-Test-Repo/issues"
+      },
+      "homepage" : "https://github.com/ghbr/Acme-Test-Repo",
+      "repository" : {
+         "url" : "https://github.com/ghbr/Acme-Test-Repo.git",
+         "web" : "https://github.com/ghbr/Acme-Test-Repo"
+      }
+   },
    "version" : "0.01"
 }
